@@ -1,0 +1,3 @@
+docker conectarse a la maquina y ejecutar bin bash.sh
+
+docker exec -it -w /var/www/html/public_html/gitlab/projecteditor2019 asgard-php73-apache /bin/bash
